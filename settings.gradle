@@ -1,0 +1,3 @@
+include ':neumorphismclock'
+include ':app'
+rootProject.name = "NeumorphismClock"
